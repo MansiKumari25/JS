@@ -136,4 +136,6 @@ let firstLetterOfLastName = "";
 firstLetterOfLastName = lastName[0]; 
 console.log(firstLetterOfLastName);
 
-
+let myStr9 = "Jello World";
+myStr9="Hello World";
+console.log(myStr9);
