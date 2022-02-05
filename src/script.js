@@ -921,3 +921,14 @@ const myDog = {
   }
   
   updateRecords(recordCollection, 5439, 'artist', 'ABBA');
+
+
+  const myArray = [];
+
+var i=5, j=0;
+while(i>=0)
+{
+  myArray[j]=i;
+  j++;
+  i--;
+}
