@@ -190,3 +190,12 @@ console.log(removedFromMyArray);
 myArray5.unshift(["Paul", 35]);
 console.log(myArray5);
 
+const myList = [
+    ["Chocolate", 10],
+    ["Cakes", 20],
+    ["IceCream", 5],
+    ["Pizza", 30],
+    ["Burger", 15]
+  ];
+  console.log(myList);
+
