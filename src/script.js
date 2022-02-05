@@ -154,3 +154,6 @@ const myAdverb = "quickly";
 
 const wordBlanks = "The "+myAdjective+" "+myNoun+" "+myVerb+" very "+myAdverb; 
 console.log(wordBlanks);
+
+const myArray = ["Hello", 10];
+console.log(myArray);
