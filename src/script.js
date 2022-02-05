@@ -60,3 +60,6 @@ const product2 = 2.0 * 2.5;
 const quotient2 = 4.4/ 2.0; 
 console.log(quotient2);
 
+const remainder = 8%3;
+console.log(remainder);
+
