@@ -212,3 +212,10 @@ const myList = [
 
 functionWithArgs(1,2);
 
+
+function timesFive(a)
+{
+  return a*5;
+}
+timesFive(5);
+
