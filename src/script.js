@@ -55,4 +55,8 @@ myVar2 = --myVar2;
 console.log(myVar2);
 
 const myDecimal = 5.7;
-const product = 2.0 * 2.5;
+const product2 = 2.0 * 2.5;
+
+const quotient2 = 4.4/ 2.0; 
+console.log(quotient2);
+
