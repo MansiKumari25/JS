@@ -49,3 +49,7 @@ const quotient = 66 / 33;
 let myVar = 87;
 myVar = ++myVar;
 console.log(myVar);
+
+let myVar2 = 11;
+myVar2 = --myVar2;
+console.log(myVar2);
