@@ -940,3 +940,12 @@ for(let i=0; i<5; i++)
   myArray.push(i+1);
 }
 console.log(myArray);
+
+
+const myArray = [];
+let a=1;
+for(let i=0; i<5; i++)
+{
+  myArray.push(a);
+  a=a+2;
+}
