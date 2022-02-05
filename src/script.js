@@ -661,6 +661,9 @@ function caseInSwitch(val) {
   abTest(2,2);
 
 
+
+
+
   let count = 0;
 
 function cc(card) {
@@ -694,3 +697,12 @@ function cc(card) {
 }
 
 cc(2); cc(3); cc(7); cc('K'); cc('A');
+
+const myDog = {
+   
+    name:  "Tom",
+    legs: 4,
+    tails: 1,
+    friends: ["Jim", "Sam"]
+  
+  };
