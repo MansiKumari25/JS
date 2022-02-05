@@ -247,3 +247,14 @@ function myLocalScope() {
   
   console.log('outside myLocalScope', myVar);
 
+
+
+  const outerWear = "T-Shirt";
+
+function myOutfit() {
+  let outerWear="sweater";
+  return outerWear;
+}
+
+myOutfit();
+
