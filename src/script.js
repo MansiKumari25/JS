@@ -187,4 +187,6 @@ let removedFromMyArray=myArray5.pop();
 console.log(removedFromMyArray);
 removedFromMyArray=myArray5.shift();
 console.log(removedFromMyArray);
+myArray5.unshift(["Paul", 35]);
+console.log(myArray5);
 
