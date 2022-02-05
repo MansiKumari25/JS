@@ -199,3 +199,9 @@ const myList = [
   ];
   console.log(myList);
 
+
+  function reusableFunction(){
+    console.log("Hi World");
+  }
+  reusableFunction();
+
