@@ -146,3 +146,11 @@ const lastLetterOfLastName = lastName[lastName.length-1];
 console.log(lastLetterOfLastName);
 const secondToLastLetterOfLastName = lastName[lastName.length-2];
 console.log(secondToLastLetterOfLastName);
+
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+
+const wordBlanks = "The "+myAdjective+" "+myNoun+" "+myVerb+" very "+myAdverb; 
+console.log(wordBlanks);
