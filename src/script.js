@@ -109,4 +109,6 @@ const myStr4 = "FirstLine\n\
 ThirdLine"; 
 console.log(myStr4);
 
+const myStr5 = "This is the start."+" This is the end."; 
+console.log(myStr5);
 
