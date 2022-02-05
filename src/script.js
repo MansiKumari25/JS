@@ -43,7 +43,9 @@ console.log(FCC, fact); // Change this line
 
 const sum = 10 + 10;
 const difference = 45 - 33;
+
 const product = 8 * 10;
+
 const quotient = 66 / 33;
 
 let myVar = 87;
@@ -71,4 +73,13 @@ let c2 = 12;
 a2 +=  12;
 b2 += 9 ;
 c2 += 7;
+
+
+let a3 = 11;
+let b3 = 9;
+let c3 = 3;
+
+a3 -= 6;
+b3 -= 15;
+c3 -=  1;
 
