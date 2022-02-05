@@ -432,3 +432,18 @@ function nextInLine(arr, item) {
   }
   
   console.log(testLogicalAnd(10));
+
+
+  function testLogicalOr(val) {
+    
+    if (val < 10 || val > 20) {
+      return "Outside";
+    }
+   else{
+      return "Inside";
+    }
+  
+    return "Inside";
+  }
+  
+  testLogicalOr(15);
