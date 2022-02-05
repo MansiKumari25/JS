@@ -41,7 +41,7 @@ let fact = "is cool!"; // Change this line
 fact = "is awesome!";
 console.log(FCC, fact); // Change this line
 
-const sum = 10 + 10;
+let sum = 10 + 10;
 const difference = 45 - 33;
 
 const product = 8 * 10;
@@ -257,4 +257,17 @@ function myOutfit() {
 }
 
 myOutfit();
+
+
+ sum = 0;
+
+function addThree() {
+  sum = sum + 3;
+}
+function addFive(){
+  sum = sum +5;
+}
+
+console.log(addThree());
+console.log(addFive());
 
