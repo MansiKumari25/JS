@@ -63,3 +63,12 @@ console.log(quotient2);
 const remainder = 8%3;
 console.log(remainder);
 
+
+let a2 = 3;
+let b2 = 17;
+let c2 = 12;
+
+a2 +=  12;
+b2 += 9 ;
+c2 += 7;
+
