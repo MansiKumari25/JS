@@ -271,3 +271,11 @@ function addFive(){
 console.log(addThree());
 console.log(addFive());
 
+
+let processed = processArg(7);
+
+function processArg(num) {
+  return (num + 3) / 5;
+}
+console.log(processed);
+
