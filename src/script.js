@@ -12,3 +12,6 @@ b=7;
 b=a;
 
 var c=9;
+
+var myFirstName="Mansi";
+var myLastName="Kumari";
