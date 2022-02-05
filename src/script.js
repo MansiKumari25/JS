@@ -100,7 +100,13 @@ a5 /= 12;
 b5 /= 4;
 c5 /= 11;
 
-const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
+const myStr2 = "I am a \"double quoted\" string inside \"double quotes\".";
 
-const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
+const myStr3 = '<a href="http://www.example.com" target="_blank">Link</a>';
+
+const myStr4 = "FirstLine\n\
+\t\\SecondLine\n\
+ThirdLine"; 
+console.log(myStr4);
+
 
