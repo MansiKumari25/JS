@@ -304,3 +304,14 @@ function nextInLine(arr, item) {
   }
   console.log(welcomeToBooleans());
 
+
+  function trueOrFalse(wasThatTrue) {
+    if(wasThatTrue)
+    {
+      return "Yes, that was true";
+    }
+    else{
+      return "No, that was false ";
+    }
+  }
+
