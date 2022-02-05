@@ -949,3 +949,12 @@ for(let i=0; i<5; i++)
   myArray.push(a);
   a=a+2;
 }
+
+
+const myArray = [];
+
+// Only change code below this line
+for(let i=9; i>=0; i-=2)
+{
+  myArray.push(i);
+}
