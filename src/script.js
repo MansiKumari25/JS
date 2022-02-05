@@ -634,3 +634,17 @@ function caseInSwitch(val) {
   }
   
   chainToSwitch(7);
+
+
+  function isLess(a, b) {
+    switch(a<b)
+    {
+      case true: return true;
+       break;
+       case false: return false;
+        break;
+    }
+
+  }
+  
+  isLess(10, 15);
