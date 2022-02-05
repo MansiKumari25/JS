@@ -160,3 +160,8 @@ console.log(myArray);
 
 const myArray2 = [["Apple", 67], ["Tom", "Jerry"]];
 console.log(myArray2);
+
+const myArray3= [50, 60, 70];
+const myData=myArray3[0];
+console.log(myData);
+
