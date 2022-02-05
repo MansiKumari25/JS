@@ -162,9 +162,19 @@ const myArray2 = [["Apple", 67], ["Tom", "Jerry"]];
 console.log(myArray2);
 
 const myArray3= [50, 60, 70];
-const myData=myArray3[0];
+let myData=myArray3[0];
 console.log(myData);
 
 myArray3[0]=45;
 console.log(myArray3);
+
+const myArray4 = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+    [[10, 11, 12], 13, 14],
+  ];
+  
+  myData = myArray4[2][1];
+  console.log(myData);
 
