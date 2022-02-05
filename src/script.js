@@ -116,3 +116,7 @@ console.log(myStr5);
 let myStr6="This is the first sentence.";
 myStr6 += " This is the second sentence."
 console.log(myStr6);
+
+const myName2 = "Mansi";
+const myStr7 = "My name is "+ myName2+" and I am well!";
+console.log(myStr7);
