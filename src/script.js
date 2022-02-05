@@ -157,3 +157,6 @@ console.log(wordBlanks);
 
 const myArray = ["Hello", 10];
 console.log(myArray);
+
+const myArray2 = [["Apple", 67], ["Tom", "Jerry"]];
+console.log(myArray2);
