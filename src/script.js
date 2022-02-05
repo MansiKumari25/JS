@@ -100,3 +100,5 @@ a5 /= 12;
 b5 /= 4;
 c5 /= 11;
 
+const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
+
