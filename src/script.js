@@ -120,3 +120,7 @@ console.log(myStr6);
 const myName2 = "Mansi";
 const myStr7 = "My name is "+ myName2+" and I am well!";
 console.log(myStr7);
+
+const someAdjective = " amazing, logical, cool.";
+let myStr = "Learning to code is ";
+myStr += someAdjective;
