@@ -165,3 +165,6 @@ const myArray3= [50, 60, 70];
 const myData=myArray3[0];
 console.log(myData);
 
+myArray3[0]=45;
+console.log(myArray3);
+
